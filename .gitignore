@@ -1,0 +1,6 @@
+*~
+*.o
+*.img
+*.map
+a.out
+zundoko
